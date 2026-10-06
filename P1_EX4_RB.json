@@ -1,0 +1,1 @@
+{"title":"vnms","created":"2026-10-05","codeLine":0,"step":0,"status":0,"interval":500,"focus":{"el":"","cell":-1,"var":""},"code":"LOD T1\nSTO X\nLOD T2\nSTO Y\nLOD Y\nSTO T1\nLOD X\nSTO T2\nHLT\n","variables":{"X":"8","Y":"8","Z":"0","W":"0","T1":"0","T2":"8","T3":"8"},"alu":{"e1":"8","e2":"8","op":"="},"acc":"8","ir":{"cmd":"","loc":""},"pc":{"val":0,"step":1}}
